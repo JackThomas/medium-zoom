@@ -37,7 +37,8 @@
     "release:examples": "./scripts/release-examples.sh"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "keywords": [
     "medium",
